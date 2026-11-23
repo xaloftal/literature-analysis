@@ -1,0 +1,15 @@
+("healthcare interoperability" OR "data integration") AND ("time-series data" OR "sensor data")
+
+(wearable OR sensors OR "smart collar") AND (dog OR canine OR animal) AND physiological
+
+fhir
+
+internet of pets
+
+medical standard
+
+veterinary data
+
+veterinary interability
+
+wearable fhir

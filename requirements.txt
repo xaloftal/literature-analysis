@@ -1,0 +1,15 @@
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+networkx
+wordcloud
+scikit-learn
+nbconvert
+matplotlib
+seaborn
+networkx
+wordcloud
+scikit-learn
+nbconvert
